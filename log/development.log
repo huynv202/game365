@@ -1,0 +1,21 @@
+Started GET "/" for ::1 at 2023-12-20 20:51:54 +0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/huynv/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/huynv/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 633)
+Completed 200 OK in 14ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 7355)
+
+
+Started GET "/" for ::1 at 2023-12-20 20:53:43 +0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/huynv/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/huynv/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 275)
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 912)
+
+
+Started GET "/" for ::1 at 2023-12-20 20:53:43 +0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/huynv/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/huynv/.rbenv/versions/3.2.0/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 14)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 216)
+
+
